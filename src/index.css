@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://img.freepik.com/free-vector/creative-geometric-design-space_53876-89781.jpg?w=740&t=st=1682992333~exp=1682992933~hmac=c08fde3a69dbce9ea5f5e6369cdad3716e6081d88447a1b3b9bc52ec4b7ab1a5");
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
